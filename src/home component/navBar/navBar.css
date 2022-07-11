@@ -1,0 +1,14 @@
+.myNav{
+    left: 13%;
+    z-index: 100;
+    width: 87%;
+}
+
+@media screen and (max-width:600px){
+
+    .myNav{
+        left: 0%;
+        z-index: 100;
+        width: 100%;
+    }
+}

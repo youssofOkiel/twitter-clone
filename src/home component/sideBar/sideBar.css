@@ -1,0 +1,23 @@
+ul li div:hover{
+ background-color: rgb(228, 228, 228);
+}
+
+ul li div{
+    margin-bottom: 5px;
+    width: 30%;
+    float: right;
+}
+.mySideBar{
+    z-index: 100;
+}
+
+@media screen and (max-width:600px){
+
+    .mySideBar{
+        display: none;
+    }
+
+}
+
+
+

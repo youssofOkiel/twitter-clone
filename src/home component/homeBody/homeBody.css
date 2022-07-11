@@ -1,0 +1,27 @@
+.body_margin{
+    margin-top: 65px;
+    margin-left: 173px;
+}
+input:focus{
+    outline: none;
+}
+
+ul li {
+    display: inline;
+    margin-right: 15px;
+}
+.tweet ul{
+    margin-top: 5px;
+}
+.tweet ul li{
+    display: inline;
+    margin-right: 20%;
+}
+.tweet a{
+text-decoration: none;
+color: rgb(112, 112, 112);
+font-size:medium;
+}
+.tweet a:hover{
+    color: rgb(31, 51, 230);
+}
